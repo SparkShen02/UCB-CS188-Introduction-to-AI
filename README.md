@@ -1,2 +1,2 @@
-# UCB-CS188-Introduction-to-AI
-Projects and Mini-Contests for UC Berkeley CS 188: Introduction to Artificial Intelligence
+## Course Website
+[CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa18/)
